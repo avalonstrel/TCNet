@@ -1,0 +1,4 @@
+epoch:10, accu1:0.2609, accu2:0.3739, best_accu:0.3739
+epoch:20, accu1:0.2696, accu2:0.3043, best_accu:0.3739
+epoch:30, accu1:0.3043, accu2:0.3739, best_accu:0.3739
+epoch:10, accu1:0.1739, accu2:0.2522, best_accu:0.2522
