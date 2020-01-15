@@ -1,5 +1,9 @@
 # TCNet
 Implementation of Paper H. Lin, Y. Fu, P. Lu, et.al. TC-Net for iSBIR: Triplet Classification Network for instance-level Sketch Based Image Retrieval. In Proc. ACM Multimedia 2019.
+
+### Structure
+The structure of our model.
+![Structure](structure.png?raw=true "Title")
 ### Datasets
 Datasets used in our paper. Your can modify the parameter in train.py to read different datasets.
 ##### QMUL Shoes / Chairs [http://www.eecs.qmul.ac.uk/~qian/Project_cvpr16.html]
