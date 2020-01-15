@@ -6,7 +6,7 @@ The structure of our model.
 ![Structure](structure.png?raw=true "Title")
 ### Datasets
 Datasets used in our paper. Your can modify the parameter in train.py to read different datasets.
-##### QMUL Shoes / Chairs [http://www.eecs.qmul.ac.uk/~qian/Project_cvpr16.html]
+##### [QMUL Shoes / Chairs ](http://www.eecs.qmul.ac.uk/~qian/Project_cvpr16.html)
 
 - parameter `obj`
 
@@ -36,7 +36,7 @@ Datasets used in our paper. Your can modify the parameter in train.py to read di
 
   `--obj=shoes_v2 --data_root=/home/xxx/dataset/sketch/sbir_qian/QUML_v2`
 
-##### Sketchy[http://sketchy.eye.gatech.edu/]
+##### [Sketchy](http://sketchy.eye.gatech.edu/)
 
 - file structure
 
@@ -67,7 +67,7 @@ Datasets used in our paper. Your can modify the parameter in train.py to read di
   	|	|- testset.txt
   ```
 
-- parameter `obj,data_root` (The example path is on 10.88.3.92)
+- parameter `obj,data_root` 
 
   `--obj=sketchy --data_root=/home/xxx/dataset/sketch/sketchy`
 
