@@ -32,7 +32,7 @@ Datasets used in our paper. Your can modify the parameter in train.py to read di
   	|- sketch_test.txt
   ```
 
-- parameter `obj,data_root` (The example path is on 10.88.3.92)
+- parameter `obj,data_root` 
 
   `--obj=shoes_v2 --data_root=/home/xxx/dataset/sketch/sbir_qian/QUML_v2`
 
